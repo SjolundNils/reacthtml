@@ -1,7 +1,7 @@
 import React from "react";
 import computer1 from "../assets/img/Computer1.png";
 import mouseKeyboard from "../assets/img/mousekeyboard.png";
-
+import LikeButton from "../components/LikeButton.jsx";
 
 
 class Home extends React.Component {
@@ -29,6 +29,7 @@ class Home extends React.Component {
                 <br />
                 <b>9:00-17:00</b>
               </p>
+              <LikeButton initialLiked={false} />
             </div>
 
             <div className="content-half">

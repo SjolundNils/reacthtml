@@ -498,7 +498,7 @@ footer p {
   background-color: var(--night-lipstick);
 }
 
-.music-nav .fullscreen-menu {
+.music-nav #fullscreen-menu {
   background-color: #3e191af6;
 }
 
@@ -566,7 +566,7 @@ footer p {
   background-color: #0e2417;
 }
 
-.om-oss-nav .fullscreen-menu {
+.om-oss-nav #fullscreen-menu {
   background-color: #0e2417e5;
 }
 
